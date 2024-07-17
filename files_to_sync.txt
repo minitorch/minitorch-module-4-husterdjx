@@ -13,3 +13,5 @@ project/run_tensor.py
 project/run_fast_tensor.py
 project/parallel_check.py
 tests/test_tensor_general.py
+requirements.txt
+requirements.extra.txt
